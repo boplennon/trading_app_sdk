@@ -14,7 +14,15 @@
 		</data>
 		<key>Main.storyboardc/Info.plist</key>
 		<data>
-		GnMdGFfDuvwAuWJN7FS9ELLozY4=
+		UnPP0Ix88q6mvNwvFHc4+GAENI4=
+		</data>
+		<key>Main.storyboardc/SDKViewController.nib</key>
+		<data>
+		Ul2o5mLzpUB0C+OuI/uUX6iyjH0=
+		</data>
+		<key>Main.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
+		<data>
+		YQl2crtXDXROsMVoSP2VvzSl3xE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -54,7 +62,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9gq+m2SfIqZdO4RnP+Q5bwx0h1nftPpvwkJZZ8jBiZE=
+			O9+ldBcffPxEA2URLl1bwposhQ4ECb7tXUEkSBSk6/w=
+			</data>
+		</dict>
+		<key>Main.storyboardc/SDKViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hKhrBp1EvZHgZNKYP8NTuyeCQs2gZPzVq4oOgiuyZwU=
+			</data>
+		</dict>
+		<key>Main.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			zrgTj+4R7DaNEe3u3x5F3EzDbJilyUbaKE7pDm9xxlU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
