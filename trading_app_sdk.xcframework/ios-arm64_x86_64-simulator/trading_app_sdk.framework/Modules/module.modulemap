@@ -1,0 +1,6 @@
+framework module trading_app_sdk {
+  umbrella header "trading_app_sdk.h"
+  export *
+
+  module * { export * }
+}
